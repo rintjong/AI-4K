@@ -1,0 +1,191 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "323888616733450_323889456733366x",
+      "main_ads_intertitial":"323888616733450_323889536733358x",
+      "main_ads_rewards":"null",
+      "main_ads_natives":"323888616733450_323889650066680",
+      "backup_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+      "backup_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"null",
+      "open_ads_admob":"null",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+   "More":
+  [
+    {
+			"id": 1,
+			"title": "Cool Aesthetic Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "Super HD 4K Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		
+	    {
+			"id": 4,
+			"title": "US Navy Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/7THc2UBA13B-NMpiS06uTNbWAoSvdLyMVnrJiwPGGYIwDYSKOwhPESlv1pKJXIXNNA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.usnavyseal"
+		}
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "AI Powered Wallpapers",
+      "image": "https://cdn.discordapp.com/attachments/1129923964643311740/1133944027675373578/2d77deed-f0aa-4eed-b9b4-7e41c23054de.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    
+	{
+      "id":21,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A dramatic stormy sky",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/ce1be59e-7fa7-47d1-9da7-ca1572c67dbb/DreamShaper_v7_A_dramatic_stormy_sky_with_lightning_illuminati_0.jpg","lock":false
+    },
+    {
+      "id": 22,
+      "name_category": "AI Powered Wallpapers",
+      "title": "A picturesque vineyard",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/a24e8f9e-901b-4637-9c3a-51aa460f8890/SDXL_09_A_picturesque_vineyard_with_rows_of_grapevines_and_a_r_0.jpg?w=512","lock":false
+    },
+    {
+      "id":23,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A tranquil Zen garden",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/482538ad-4237-4228-930a-2a65da1bf1d3/SDXL_09_A_tranquil_Zen_garden_with_perfectly_raked_sand_and_pe_0.jpg?w=512","lock":false
+    },
+    {
+      "id":24,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A peaceful countryside scene",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/523d75b3-e79e-4fc2-8e67-d5fd72709e1e/SDXL_09_A_peaceful_countryside_scene_with_grazing_horses_and_a_0.jpg?w=512","lock":false
+    },
+    {
+      "id":25,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A breathtaking aerial view",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/5513351a-70cf-4532-afa2-0af362951271/SDXL_09_A_breathtaking_aerial_view_of_a_tropical_paradise_with_0.jpg?w=512","lock":false
+    },
+	
+    {
+      "id":28,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A charming European village",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/71d9fca1-9eeb-4bbb-b8ff-81b1d6bf717c/DreamShaper_v7_A_charming_European_village_with_cobblestone_st_0.jpg","lock":false
+    },
+    
+    {
+      "id":30,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A majestic canyon",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/c7be35b2-351d-420d-a47b-f5c76d8c02aa/DreamShaper_v7_A_majestic_canyon_with_towering_cliffs_and_a_wi_0.jpg","lock":false
+    },
+	
+    {
+      "id": 32,
+      "name_category": "AI Powered Wallpapers",
+      "title": "A futuristic space station",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/7ca7cccf-2436-4a64-831b-dd8dd1618e1b/DreamShaper_v7_A_futuristic_space_station_floating_amidst_star_0.jpg?w=512","lock":false
+    },
+    {
+      "id":33,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A tranquil park scene",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/e8d41300-9265-48c4-9d3f-5d9e28d1a0db/DreamShaper_v7_A_tranquil_park_scene_with_blooming_cherry_blos_0.jpg","lock":false
+    },
+   
+    {
+      "id":35,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A romantic Venetian canal",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/f0979a32-6caa-44e6-9091-397b4bd12697/DreamShaper_v7_A_romantic_Venetian_canal_with_gondolas_gliding_0.jpg","lock":false
+    },
+	{
+      "id":36,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A roaring ocean wave frozen in time",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/d1031a9f-f33c-4430-8e40-2befc38df27f/DreamShaper_v7_An_artistic_representation_of_a_roaring_ocean_w_0.jpg","lock":false
+    },
+    
+    {
+      "id":38,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A mesmerizing geometric pattern",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/96115683-f977-41d5-bbeb-1e05348d44b2/DreamShaper_v7_A_mesmerizing_geometric_pattern_with_intricate_0.jpg","lock":false
+    },
+   
+   
+	{
+      "id":41,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A tranquil countryside scene",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/c6f84f27-e11b-4abb-9f2e-fb3bdabb9657/DreamShaper_v7_A_tranquil_countryside_scene_with_grazing_sheep_0.jpg","lock":false
+    },
+    {
+      "id": 42,
+      "name_category": "AI Powered Wallpapers",
+      "title": "An abstract representation of the four seasons",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/ab4eac9f-4b51-424b-ab0b-04c44e5d7a5c/DreamShaper_v7_An_abstract_representation_of_the_four_seasons_0.jpg","lock":false
+    },
+   
+   
+    {
+      "id":45,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A serene autumn landscape",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/1a7db171-1db6-48b3-8ee2-5fd136c20e9e/DreamShaper_v7_A_serene_autumn_landscape_with_golden_leaves_fa_0.jpg","lock":false
+    },
+	{
+      "id":46,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A whimsical hot air balloon festival",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/1f2fc694-8418-4447-92b3-345ee1cd2304/DreamShaper_v7_A_whimsical_hot_air_balloon_festival_with_color_0.jpg","lock":false
+    },
+    {
+      "id": 47,
+      "name_category": "AI Powered Wallpapers",
+      "title": "A peaceful Japanese garden",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/7aa6e3f5-e741-4ba3-9a5f-d5da9472186e/DreamShaper_v7_A_peaceful_Japanese_garden_with_a_serene_pond_a_0.jpg","lock":false
+    },
+    {
+      "id":48,
+      "name_category": "AI Powered Wallpapers",
+      "title":"An abstract representation of energy",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/7eac9fc6-4339-4a70-b587-ad1bd86a2fe3/DreamShaper_v7_An_abstract_representation_of_energy_with_dynam_0.jpg","lock":false
+    },
+   
+    {
+      "id":50,
+      "name_category": "AI Powered Wallpapers",
+      "title":"A futuristic cityscape at night",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/8c9a0037-8387-4172-8aba-ff27f5d4175c/DreamShaper_v7_A_futuristic_cityscape_at_night_with_holographi_0.jpg",
+      "lock":false
+    }
+  ]
+}
